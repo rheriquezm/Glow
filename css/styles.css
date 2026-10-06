@@ -395,9 +395,9 @@ button:focus-visible {
   border-radius: 192px 192px 18px 18px;
   min-height: 420px;
   background-color: var(--blush);
-  background-image: url("../assets/espacio-glow-plasma.jpg");
+  background-image: url("../assets/pink-glow.jpg");
   background-size: cover;
-  background-position: center 30%;
+  background-position: center;
   background-repeat: no-repeat;
 }
 .about-badge {
@@ -553,7 +553,7 @@ button:focus-visible {
 /* Distribución tipo mosaico + imágenes referenciales (Instagram @espacioglow.cl) */
 .g-a { grid-column: span 2; grid-row: span 2; background-image: url("../assets/dna-led.jpg"); }
 .g-b { grid-column: span 2; background-image: url("../assets/prp-power.jpg"); }
-.g-c { background-image: url("../assets/pink-glow.jpg"); }
+.g-c { background-image: url("../assets/espacio-glow-plasma.jpg"); }
 .g-d { background-image: url("../assets/catalogo-glow.jpg"); }
 .g-e { grid-column: span 2; background-image: url("../assets/espacio-mirror.jpg"); }
 .g-f { grid-column: span 2; background-image: url("../assets/toxina-botox.jpg"); }

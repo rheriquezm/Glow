@@ -30,10 +30,10 @@ y se guardan localmente en `assets/`:
 
 | Archivo | Uso |
 |---|---|
-| `espacio-glow-plasma.jpg` | Foto principal de "Nosotros" |
+| `pink-glow.jpg` | Foto principal de "Nosotros" |
+| `espacio-glow-plasma.jpg` | Galería · Promoción plasma |
 | `dna-led.jpg` | Galería · Tecnología LED |
 | `prp-power.jpg` | Galería · PRP |
-| `pink-glow.jpg` | Galería · Pink Glow |
 | `catalogo-glow.jpg` | Galería · Catálogo |
 | `espacio-mirror.jpg` | Galería · Espacio |
 | `toxina-botox.jpg` | Galería · Toxina |
